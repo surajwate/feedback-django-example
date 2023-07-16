@@ -33,3 +33,5 @@ Feedback app to understand how the Django Class Views work.
 - Storing Data in Sessions
 - Using Session Data
 - Safely Accessing Session Data
+
+------------
